@@ -1,0 +1,64 @@
+
+<style>
+	.pf-1{
+		width: max-content;
+		height: 210px;
+		text-align: left;
+
+
+	}
+	.pf-11{
+		display: inline-block;
+		vertical-align: top;
+		text-align: center;
+		padding: 0;
+		margin-left: 20px;
+		width: 120px;
+		height: 150px;
+		background-color: white;
+	}
+	.pf-12{
+		display: inline-block;
+		text-align: center;
+		padding: 0;
+		margin-left: 20px;
+		width: 260px;
+		height: 150px;
+		background-color: white;
+	}
+</style>
+
+<div class="content_wrap">
+ <div class="content_container">
+        <div class="maintxt">
+           <p style="font-size: 20px;"></strong><strong>섬기는 이들</strong></p>
+        </div>
+        <div class="content_box">
+
+   <div class="content_container">
+        <div class="maintxt">
+           <p>인사말</p>
+        </div>
+        <div class="greeting_img">
+                <img src="http://yangsanmd.cafe24.com/subpage/images/about_img1.png" alt="김용기목사님">     
+        </div>
+        <div class="content_box_1">
+       	    <div class="sub_content">
+            	<p>주님의 이름으로 문안드립니다.<br>명동교회는 항상 여러분의 가까이에 있습니다.<br>명동교회는 건강한 교회 공동체로서 사람들이 <span class="bold">"다니고 싶고 다닐 만한 교회"</span>입니다.</p>
+                <p>성도 공동체가 서로 다투지 아니하고 화평을 이루고 있습니다.<br>항상 이웃을 섬기며 세상을 섬기는 것을 기쁘게 하고 있습니다.<br>또한 우리 자녀들을 건강하고 복된 사람들을 세워가는 것에 힘을 모으는 교회입니다.</p>
+                
+                <p>항상 청소년들과 어린 학생들이 교회에서 건강한 영성과 인성과 실력을 가지고 부모를 잘 섬기고 자랑이 되도록 하며 하나님께서 축복하시는 사람으로 세워지도록 하고 있습니다. 그러기 위해 어른들이 다음세대에 항상 관심과 사랑을 쏟고 있고 말로만 지도하는 것이 아니라 먼저 모범을 보이는 실천적인 신앙생활을 하고 있습니다.</p>
+                
+                <p>명동교회는 <span class="special_txt1">오직 기도하는 교회</span> 입니다.<br>명동교회는 <span class="special_txt1">도시를 축복하는 교회</span>입니다.<br>명동교회는 <span class="special_txt1">세계선교에 동역하는 교회</span>입니다.</p>
+                
+                <p>무엇보다 명동교회는 사람이 주인이 아닌 예수님의 주인 되는 교회입니다.<br>그래서 명동교회는 목사의 꿈이 아닌 예수님의 꿈을 함께 꾸며 공동체를 이루고 있는 교회입니다.</p>
+                
+            </div>
+            <div class="from_copy">
+            	<p><span class="point">담임목사</span><br>
+            		김 용 기
+            	</p>
+            </div>
+        </div>
+        </div>
+    </div>
